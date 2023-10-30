@@ -1,3 +1,6 @@
+# Version avec gestion des deux erreurs: url + fichier
+# Renvoie toujours none quelle que soit l'erreur
+
 from urllib.request import urlopen
 from urllib.error import HTTPError
 from urllib.error import URLError
@@ -24,7 +27,7 @@ def getTitle(url):
         return None
     return title
 
-title = getTitle("http://www.pythonscaping.com/exercises/exercise1.html")
+title = getTitle("http://www.pythonscraping.com/exercises/exercise1.html")
 if title == None:
     print("Title could not be found")
 else:
