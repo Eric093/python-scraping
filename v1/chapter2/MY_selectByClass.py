@@ -24,7 +24,11 @@ def getTitle(url):
     try:
         html = urlopen("https://www.conanauction.fr/")  # A retoucher (getTitle url)
         bsObj = BeautifulSoup(html, "html.parser")
-        nameList = bsObj.findAll("div", {"class":"entry-title"})
+
+        ##### Test pour n'avoir que le calendrier
+        # nameList = bsObj.findAll("div", {"class":"entry-title"})
+        nameList = bsObj.find("div", {"class":"page_calendrier"}).findAll("div", {"class":"entry-title"})
+
         for name in nameList:
             print(name.get_text())
             
