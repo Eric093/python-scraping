@@ -29,6 +29,7 @@ def getTitle(url):
 
     # Scrapper
     try:
+        logging.debug("Demarrage du traitement")
         html = urlopen("https://www.conanauction.fr/resultats-des-ventes?year=2021&tab=tab2#tj_container_nbre")  # A retoucher (getTitle url présent plus bas)
         bsObj = BeautifulSoup(html, "html.parser")
 
