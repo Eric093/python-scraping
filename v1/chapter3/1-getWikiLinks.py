@@ -4,7 +4,7 @@ import datetime
 import random
 import re
 
-random.seed(datetime.datetime.now())
+random.seed(0)
 def getLinks(articleUrl):
     html = urlopen("http://en.wikipedia.org"+articleUrl)
     bsObj = BeautifulSoup(html, "html.parser")
