@@ -43,18 +43,22 @@ def getTitle(url):
         ######## Avec get href ne renvoie rien ? ajouter un find a ?
         
         print(nameList)######## OK Sort le contenu total du bsObj !!!!!!
+        
 
         for name in nameList:
             print(name.get_text())
             # print(name['href'])
             href = name.get('href')
             print(href) 
+            #lien = a.attrs['href']
+            #print(lien)
             
             if 'href' in name.attrs :
                 print(name.get_url())
             
             
     except AttributeError as e:
+        print(e)
         return None
     #return title
 
