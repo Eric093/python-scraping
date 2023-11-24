@@ -38,7 +38,7 @@ def getTitle(url):
         #  nameList = bsObj.findAll("div", {"class":"entry-title"})
         # nameList = bsObj.find("div", {"class":"page_calendrier"}).findAll("div", {"class":"entry-title"})
         # nameList = bsObj.find("div", {"class":"page_calendrier"}.findAll("div", {"class":"entry-title"}).find("a").attrs['href'])
-        nameList = bsObj.find("div", {"class":"page_calendrier"}).findAll("div", {"class":"entry-title"})
+        nameList = bsObj.find("div", {"class":"page_calendrier"}).findAll("div", {"class":"entry-title"})#.findAll("a")
         # nameList = bsObj.find("div",{"class":"entry-title"}).get("href") # NOK
         ######## Avec get href ne renvoie rien ? ajouter un find a ?
         
@@ -49,9 +49,15 @@ def getTitle(url):
             # print(name['href'])
             href = name.get('href')
             print(href) 
+
+        """ for name in nameList:
+            print(name.get_text())
+            # print(name['href'])
+            href = name.get('href')
+            print(href) 
             
             if 'href' in name.attrs :
-                print(name.get_url())
+                print(name.get_url()) """
             
             
     except AttributeError as e:
