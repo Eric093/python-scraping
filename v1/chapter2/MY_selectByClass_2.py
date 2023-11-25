@@ -15,30 +15,32 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
 def getTitle(url):
-    ## Gestion des erreurs de connexion
+    logging.debug("Demarrage traitement")
+
+    ## Interception des erreurs de connexion ##
     try:
+        logging.debug(url)
         html = urlopen(url)
 
     except HTTPError as e:
-        print(e, "- File not exist")
+        print(e, "- Le fichier n'existe pas")
+        logging.debug(e, "- Le fichier n'existe pas")
+
         return None
 
     except URLError as e:
-        print("URL Error - The server could not be found!")
+        print("Erreur URL - Serveur introuvable !")
+        logging.debug("Erreur URL - Serveur introuvable !")
         return None
 
     ## Scrapper
     try:
-        logging.debug("Demarrage du traitement")
 
-        html = urlopen("https://www.conanauction.fr/calendrier")
+        html = urlopen(url)
         bsObj = BeautifulSoup(html, "html.parser")
 
         ## BeautifulSoup pour avoir le calendrier
-        #  nameList = bsObj.findAll("div", {"class":"entry-title"})
-        # nameList = bsObj.find("div", {"class":"page_calendrier"}).findAll("div", {"class":"entry-title"})
-        # nameList = bsObj.find("div", {"class":"page_calendrier"}.findAll("div", {"class":"entry-title"}).find("a").attrs['href'])
-        nameList = bsObj.find("div", {"class":"page_calendrier"}).findAll("div", {"class":"entry-title"})#.findAll('a')
+        nameList = bsObj.find("div", {"class":"page_calendrier"}).findAll("div", {"class":"entry-title"})
         
         #print(nameList)######## OK Sort le contenu total du bsObj !!!!!!
         nameList_String = str(nameList)
@@ -52,12 +54,13 @@ def getTitle(url):
 
         for name in liste:#nameList:
             print(name.get_text())
+            logging.debug(name.get_text())
             # print(name['href'])
             href = name.get('href')
             print(href) 
-
+            logging.debug(href)
             
-            
+    ## Gestion des erreurs        
     except AttributeError as e:
         return None
     #return title
@@ -65,4 +68,5 @@ def getTitle(url):
 if __name__ == "__main__":
     logging.debug('Demarrage programme ----------------------------')
     
-    title=getTitle("https://www.conanauction.fr/")
+    ## URL et repertoire à examiner
+    title=getTitle("https://www.conanauction.fr/calendrier")

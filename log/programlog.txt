@@ -1,141 +1,51 @@
- 2023-11-16 16:08:39,177 - DEBUG -  Demarrage du traitement
- 2023-11-20 15:29:53,882 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 15:29:54,415 - DEBUG -  Demarrage du traitement
- 2023-11-20 15:42:14,228 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 15:42:14,615 - DEBUG -  Demarrage du traitement
- 2023-11-20 15:43:08,674 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 15:43:09,144 - DEBUG -  Demarrage du traitement
- 2023-11-20 15:43:51,072 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 15:43:51,946 - DEBUG -  Demarrage du traitement
- 2023-11-20 15:44:43,118 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 15:44:43,557 - DEBUG -  Demarrage du traitement
- 2023-11-20 15:46:19,090 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 15:46:19,505 - DEBUG -  Demarrage du traitement
- 2023-11-20 15:47:09,239 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 15:47:09,579 - DEBUG -  Demarrage du traitement
- 2023-11-20 15:54:21,701 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 15:54:22,214 - DEBUG -  Demarrage du traitement
- 2023-11-20 15:58:44,501 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 15:58:44,866 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:00:17,263 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:00:17,642 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:00:35,201 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:00:35,613 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:15:57,541 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:15:57,976 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:17:05,368 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:17:06,074 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:17:33,180 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:17:33,616 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:17:54,851 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:17:55,324 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:19:48,016 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:19:48,680 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:20:29,118 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:20:29,473 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:20:42,217 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:20:42,643 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:21:33,840 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:21:34,253 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:28:20,209 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:28:20,729 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:29:56,751 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:29:57,188 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:31:17,713 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:31:18,083 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:31:31,350 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:31:31,700 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:31:59,912 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:32:00,272 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:34:59,102 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:34:59,575 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:35:21,560 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:35:21,916 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:35:42,028 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:35:42,378 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:35:46,325 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:35:46,679 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:36:04,100 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:36:04,601 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:36:16,331 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:36:16,683 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:36:46,742 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:36:47,093 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:37:05,963 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:37:06,359 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:38:36,955 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:38:37,383 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:47:53,679 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:47:54,130 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:49:40,271 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:49:40,704 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:55:02,198 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:55:02,678 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:56:56,314 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:56:56,715 - DEBUG -  Demarrage du traitement
- 2023-11-20 16:57:28,241 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 16:57:28,861 - DEBUG -  Demarrage du traitement
- 2023-11-20 17:34:18,930 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 17:34:19,430 - DEBUG -  Demarrage du traitement
- 2023-11-20 17:35:09,900 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 17:35:10,321 - DEBUG -  Demarrage du traitement
- 2023-11-20 17:40:28,862 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 17:40:29,296 - DEBUG -  Demarrage du traitement
- 2023-11-20 17:40:50,429 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 17:40:50,900 - DEBUG -  Demarrage du traitement
- 2023-11-20 17:41:06,880 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 17:41:07,284 - DEBUG -  Demarrage du traitement
- 2023-11-20 17:41:24,137 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 17:41:24,590 - DEBUG -  Demarrage du traitement
- 2023-11-20 17:44:27,019 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 17:44:27,475 - DEBUG -  Demarrage du traitement
- 2023-11-20 17:44:43,914 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-20 17:44:44,267 - DEBUG -  Demarrage du traitement
- 2023-11-24 17:44:44,555 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-24 17:44:45,241 - DEBUG -  Demarrage du traitement
- 2023-11-24 18:51:03,446 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-24 18:51:03,853 - DEBUG -  Demarrage du traitement
- 2023-11-24 18:54:13,957 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-24 18:54:14,504 - DEBUG -  Demarrage du traitement
- 2023-11-24 18:54:43,239 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-24 18:54:43,686 - DEBUG -  Demarrage du traitement
- 2023-11-25 11:59:08,044 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-25 11:59:08,583 - DEBUG -  Demarrage du traitement
- 2023-11-25 12:01:46,009 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-25 12:01:46,545 - DEBUG -  Demarrage du traitement
- 2023-11-25 12:02:15,049 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-25 12:02:15,405 - DEBUG -  Demarrage du traitement
- 2023-11-25 12:04:09,943 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-25 12:04:10,418 - DEBUG -  Demarrage du traitement
- 2023-11-25 12:06:28,952 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-25 12:06:29,379 - DEBUG -  Demarrage du traitement
- 2023-11-25 12:15:29,975 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-25 12:15:30,352 - DEBUG -  Demarrage du traitement
- 2023-11-25 12:16:22,762 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-25 12:16:23,197 - DEBUG -  Demarrage du traitement
- 2023-11-25 12:19:57,149 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-25 12:19:57,622 - DEBUG -  Demarrage du traitement
- 2023-11-25 12:22:01,536 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-25 12:22:01,901 - DEBUG -  Demarrage du traitement
- 2023-11-25 12:25:51,601 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-25 12:25:52,030 - DEBUG -  Demarrage du traitement
- 2023-11-25 12:27:01,082 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-25 12:27:01,562 - DEBUG -  Demarrage du traitement
- 2023-11-25 12:27:18,011 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-25 12:27:18,357 - DEBUG -  Demarrage du traitement
- 2023-11-25 12:29:59,900 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-25 12:30:00,318 - DEBUG -  Demarrage du traitement
- 2023-11-25 12:30:17,265 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-25 12:30:17,621 - DEBUG -  Demarrage du traitement
- 2023-11-25 12:31:14,990 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-25 12:31:15,520 - DEBUG -  Demarrage du traitement
- 2023-11-25 13:57:38,868 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-25 13:57:39,303 - DEBUG -  Demarrage du traitement
- 2023-11-25 13:57:56,635 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-25 13:57:57,123 - DEBUG -  Demarrage du traitement
- 2023-11-25 13:59:18,256 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-25 13:59:18,734 - DEBUG -  Demarrage du traitement
- 2023-11-25 13:59:48,517 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-25 13:59:48,943 - DEBUG -  Demarrage du traitement
- 2023-11-25 14:00:35,759 - DEBUG -  Demarrage programme ----------------------------
- 2023-11-25 14:00:36,164 - DEBUG -  Demarrage du traitement
+ 2023-11-25 16:15:14,526 - DEBUG -  Demarrage programme ----------------------------
+ 2023-11-25 16:15:14,526 - DEBUG -  Demarrage du traitement
+ 2023-11-25 16:15:14,915 - DEBUG -  https://www.conanauction.fr/
+ 2023-11-25 16:19:02,457 - DEBUG -  Demarrage programme ----------------------------
+ 2023-11-25 16:19:02,457 - DEBUG -  Demarrage du traitement
+ 2023-11-25 16:19:02,955 - DEBUG -  https://www.conanauction.fr/
+ 2023-11-25 16:21:57,707 - DEBUG -  Demarrage programme ----------------------------
+ 2023-11-25 16:21:57,708 - DEBUG -  Demarrage du traitement
+ 2023-11-25 16:21:57,708 - DEBUG -  https://www.conanauction.fr/
+ 2023-11-25 16:23:08,605 - DEBUG -  Demarrage programme ----------------------------
+ 2023-11-25 16:23:08,605 - DEBUG -  Demarrage du traitement
+ 2023-11-25 16:23:08,605 - DEBUG -  https://www.conanauction.fr/
+ 2023-11-25 16:24:49,236 - DEBUG -  Demarrage programme ----------------------------
+ 2023-11-25 16:24:49,236 - DEBUG -  Demarrage du traitement
+ 2023-11-25 16:24:49,236 - DEBUG -  https://www.conanauction.frX/
+ 2023-11-25 16:24:49,281 - DEBUG -  Erreur URL - Serveur introuvable !
+ 2023-11-25 16:26:37,517 - DEBUG -  Demarrage programme ----------------------------
+ 2023-11-25 16:26:37,517 - DEBUG -  Demarrage traitement
+ 2023-11-25 16:26:37,517 - DEBUG -  https://www.conanauction.frX/
+ 2023-11-25 16:26:37,565 - DEBUG -  Erreur URL - Serveur introuvable !
+ 2023-11-25 16:26:48,006 - DEBUG -  Demarrage programme ----------------------------
+ 2023-11-25 16:26:48,006 - DEBUG -  Demarrage traitement
+ 2023-11-25 16:26:48,007 - DEBUG -  https://www.conanauction.fr/
+ 2023-11-25 16:27:43,811 - DEBUG -  Demarrage programme ----------------------------
+ 2023-11-25 16:27:43,811 - DEBUG -  Demarrage traitement
+ 2023-11-25 16:27:43,811 - DEBUG -  https://www.conanauction.fr/
+ 2023-11-25 16:30:22,095 - DEBUG -  Demarrage programme ----------------------------
+ 2023-11-25 16:30:22,096 - DEBUG -  Demarrage traitement
+ 2023-11-25 16:30:22,096 - DEBUG -  https://www.conanauction.fr/
+ 2023-11-25 16:31:21,776 - DEBUG -  Demarrage programme ----------------------------
+ 2023-11-25 16:31:21,777 - DEBUG -  Demarrage traitement
+ 2023-11-25 16:31:21,777 - DEBUG -  https://www.conanauction.fr/calendrier
+ 2023-11-25 16:34:00,150 - DEBUG -  Demarrage programme ----------------------------
+ 2023-11-25 16:34:00,150 - DEBUG -  Demarrage traitement
+ 2023-11-25 16:34:00,150 - DEBUG -  https://www.conanauction.fr/calendrier
+ 2023-11-25 16:34:00,996 - DEBUG -  VIP - Very Important Perriand
+ 2023-11-25 16:34:00,996 - DEBUG -  /catalogue/146788-vip-very-important-perriand
+ 2023-11-25 16:34:00,996 - DEBUG -  VENTE ASIE - CLASSIQUE - OR - VENTE SUR DESIGNATION
+ 2023-11-25 16:34:00,996 - DEBUG -  /catalogue/146849-vente-asie-classique-or-vente-sur-designation
+ 2023-11-25 16:34:00,996 - DEBUG -  GRANDS VINS - VENTE D'UNE PARTIE DE LA CAVE DU RESTAURANT LEON DE LYON - EN PRESENCE DE LAURENT GERRA
+ 2023-11-25 16:34:00,996 - DEBUG -  /catalogue/146525-grands-vins-vente-dune-partie-de-la-cave-du-restaurant-leon-de-lyon-en-presence-de-laurent-gerra
+ 2023-11-25 16:34:00,997 - DEBUG -  MOBILIER ET OBJETS D’ART - ARTS POPULAIRES - ASIE
+ 2023-11-25 16:34:00,997 - DEBUG -  /catalogue/145530-mobilier-et-objets-dart-arts-populaires-asie
+ 2023-11-25 16:34:00,997 - DEBUG -  GRAVURES - TABLEAUX ANCIENS - TABLEAUX MODERNES ET CONTEMPORAINS
+ 2023-11-25 16:34:00,997 - DEBUG -  /catalogue/146210-gravures-tableaux-anciens-tableaux-modernes-et-contemporains
+ 2023-11-25 16:34:00,997 - DEBUG -  BIJOUX ET MONTRES 
+ 2023-11-25 16:34:00,997 - DEBUG -  /catalogue/147052-bijoux-et-montres
+ 2023-11-25 16:34:00,997 - DEBUG -  MODE ET VINTAGE : Hermès - Chanel - Yves Saint-Laurent - Louis Vuitton ...
+ 2023-11-25 16:34:00,997 - DEBUG -  /catalogue/146211-mode-et-vintage-hermes-chanel-yves-saintlaurent-louis-vuitton-
+ 2023-11-25 16:34:00,997 - DEBUG -  LIVRES ANCIENS ET MODERNES
+ 2023-11-25 16:34:00,997 - DEBUG -  /vente/137976-livres-anciens-et-modernes
