@@ -6,7 +6,7 @@ import logging
 from urllib.error import HTTPError
 from urllib.error import URLError
 
-# Paramétrage des logs -------------------------
+## Paramétrage des logs -------------------------
 from logging.handlers import RotatingFileHandler
 logging.basicConfig(filename='log/programlog.txt', level=logging.DEBUG, format=' %(asctime)s - %(levelname)s -  %(message)s')
 # ----------------------------------------------
@@ -15,7 +15,7 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
 def getTitle(url):
-    # Gestion des erreurs de connexion
+    ## Gestion des erreurs de connexion
     try:
         html = urlopen(url)
 
@@ -27,37 +27,35 @@ def getTitle(url):
         print("URL Error - The server could not be found!")
         return None
 
-    # Scrapper
+    ## Scrapper
     try:
         logging.debug("Demarrage du traitement")
-        # html = urlopen("https://www.conanauction.fr/resultats-des-ventes?year=2021&tab=tab2#tj_container_nbre")  # A retoucher (getTitle url présent plus bas)
+
         html = urlopen("https://www.conanauction.fr/calendrier")
         bsObj = BeautifulSoup(html, "html.parser")
 
-        ##### Test pour n'avoir que le calendrier
+        ## BeautifulSoup pour avoir le calendrier
         #  nameList = bsObj.findAll("div", {"class":"entry-title"})
         # nameList = bsObj.find("div", {"class":"page_calendrier"}).findAll("div", {"class":"entry-title"})
         # nameList = bsObj.find("div", {"class":"page_calendrier"}.findAll("div", {"class":"entry-title"}).find("a").attrs['href'])
-        nameList = bsObj.find("div", {"class":"page_calendrier"}).findAll("div", {"class":"entry-title"})#.findAll("a")
-        # nameList = bsObj.find("div",{"class":"entry-title"}).get("href") # NOK
-        ######## Avec get href ne renvoie rien ? ajouter un find a ?
+        nameList = bsObj.find("div", {"class":"page_calendrier"}).findAll("div", {"class":"entry-title"})#.findAll('a')
         
-        print(nameList)######## OK Sort le contenu total du bsObj !!!!!!
+        #print(nameList)######## OK Sort le contenu total du bsObj !!!!!!
+        nameList_String = str(nameList)
+        #print(nameList_String)
 
-        for name in nameList:
+        ## Nouveau BeautifulSoup pour extraire nom de la vente et url relative
+        bsObj2 = BeautifulSoup(str(nameList), "html.parser")
+        #html_code = nameList.source
+        liste = bsObj2.findAll('a')
+        #print(liste)
+
+        for name in liste:#nameList:
             print(name.get_text())
             # print(name['href'])
             href = name.get('href')
             print(href) 
 
-        """ for name in nameList:
-            print(name.get_text())
-            # print(name['href'])
-            href = name.get('href')
-            print(href) 
-            
-            if 'href' in name.attrs :
-                print(name.get_url()) """
             
             
     except AttributeError as e:
