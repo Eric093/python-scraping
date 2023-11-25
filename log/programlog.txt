@@ -49,3 +49,22 @@
  2023-11-25 16:34:00,997 - DEBUG -  /catalogue/146211-mode-et-vintage-hermes-chanel-yves-saintlaurent-louis-vuitton-
  2023-11-25 16:34:00,997 - DEBUG -  LIVRES ANCIENS ET MODERNES
  2023-11-25 16:34:00,997 - DEBUG -  /vente/137976-livres-anciens-et-modernes
+ 2023-11-25 17:23:41,176 - DEBUG -  Demarrage programme ----------------------------
+ 2023-11-25 17:23:41,177 - DEBUG -  Demarrage traitement
+ 2023-11-25 17:23:41,177 - DEBUG -  https://www.conanauction.fr/calendrier
+ 2023-11-25 17:23:42,146 - DEBUG -  VIP - Very Important Perriand
+ 2023-11-25 17:23:42,146 - DEBUG -  /catalogue/146788-vip-very-important-perriand
+ 2023-11-25 17:23:42,146 - DEBUG -  VENTE ASIE - CLASSIQUE - OR - VENTE SUR DESIGNATION
+ 2023-11-25 17:23:42,146 - DEBUG -  /catalogue/146849-vente-asie-classique-or-vente-sur-designation
+ 2023-11-25 17:23:42,146 - DEBUG -  GRANDS VINS - VENTE D'UNE PARTIE DE LA CAVE DU RESTAURANT LEON DE LYON - EN PRESENCE DE LAURENT GERRA
+ 2023-11-25 17:23:42,146 - DEBUG -  /catalogue/146525-grands-vins-vente-dune-partie-de-la-cave-du-restaurant-leon-de-lyon-en-presence-de-laurent-gerra
+ 2023-11-25 17:23:42,146 - DEBUG -  MOBILIER ET OBJETS D’ART - ARTS POPULAIRES - ASIE
+ 2023-11-25 17:23:42,146 - DEBUG -  /catalogue/145530-mobilier-et-objets-dart-arts-populaires-asie
+ 2023-11-25 17:23:42,146 - DEBUG -  GRAVURES - TABLEAUX ANCIENS - TABLEAUX MODERNES ET CONTEMPORAINS
+ 2023-11-25 17:23:42,146 - DEBUG -  /catalogue/146210-gravures-tableaux-anciens-tableaux-modernes-et-contemporains
+ 2023-11-25 17:23:42,147 - DEBUG -  BIJOUX ET MONTRES 
+ 2023-11-25 17:23:42,147 - DEBUG -  /catalogue/147052-bijoux-et-montres
+ 2023-11-25 17:23:42,147 - DEBUG -  MODE ET VINTAGE : Hermès - Chanel - Yves Saint-Laurent - Louis Vuitton ...
+ 2023-11-25 17:23:42,147 - DEBUG -  /catalogue/146211-mode-et-vintage-hermes-chanel-yves-saintlaurent-louis-vuitton-
+ 2023-11-25 17:23:42,147 - DEBUG -  LIVRES ANCIENS ET MODERNES
+ 2023-11-25 17:23:42,147 - DEBUG -  /vente/137976-livres-anciens-et-modernes
